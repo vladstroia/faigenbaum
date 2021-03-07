@@ -1,0 +1,26 @@
+On va commencer par nous demandons qqchose tres pragmatique. 
+Les fractales peuvent parraitre si supranaturelles qui'll nous faisent
+croire qu'on doit les chercher boucuop pour les trouver, mais, en fait,
+la raison pour qu'il sont vraiment incroiable est le fait que l'on
+trouve souvent dans la nature.
+
+La question qui met en merche notre "cautare" est la suivant:
+Comment peut on aproximer le nombre des lapins qu'on aurait
+l'anee suivante. Va t'on plus loin: le nombre des lapins qu'on
+aurai dans n anees.
+
+On est tenter de sugerer qqchose comme ca
+
+....
+
+La probleme est que cet equation implique que, supposant que r est 
+plus grand que 1, le nombre des lapins va augmenter au infinit.
+Mais on sait que sa serait vraiment impossimble. 
+C'est evident qu'il aura un momment quand le nombre des lapins
+va etre assez grand pour qu'il pourront viver tous dans le meme temps.
+
+On doit donc ajouter un condition limitante a notre equation.
+C'est pour ca qu'on va utiliser le terme (1-Xn-1)
+
+Ayant cette eq. on veut voir les resultats qu'elle nous donne
+

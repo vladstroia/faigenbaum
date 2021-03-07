@@ -21,6 +21,14 @@ va etre assez grand pour qu'il pourront viver tous dans le meme temps.
 
 On doit donc ajouter un condition limitante a notre equation.
 C'est pour ca qu'on va utiliser le terme (1-Xn-1)
+Maintenant, Xn devienne un fraction de la nombre maximale des lapins 
+qui pourront viver dans le meme temps. Par example, si le nombre max
+de lapins qui pourront viver dans bruxelles est 1 million est Xn = 0.5,
+le nombre actual des lapins est 500.000.
+
+
+
+
 
 Ayant cette eq. on veut voir les resultats qu'elle nous donne
 
